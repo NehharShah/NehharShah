@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @NehharShah
 - 👀 I’m interested in AI, ML and Blockchain.
-- 🌱 I’m currently working on a blockchain project from scratch.
+- 🌱 I’m currently working as a Blockchain Lead at @OPXAI and @CarbonZeroFinance.
 - 💻 I’m looking to collaborate on projects on development platforms.
-- 🔨I have created smart contracts on Ethereum and Binance Smart Chain platform.
+- 🔨 I have created smart contracts on Ethereum, Binance Smart Chain, Polygon, Avalanche, Solana.
+- 💻 I also have used Web3 tools for integration process of Tokens, NFT, NFT Marketplace and many more.
 - 📫 How to reach me [Twitter!](https://twitter.com/Niharshah990) and [LinkedIn](https://www.linkedin.com/in/nihar-shah-139331106/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth2412&label=Profile%20views&color=0e75b6&style=flat" alt="NehharShah" /> </p>
