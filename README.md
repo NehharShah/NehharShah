@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NehharShah
 - 👀 I’m interested in AI, ML and Blockchain.
-- 🌱 I’m currently working as a Blockchain Lead at @OPXAI and @CarbonZeroFinance.
+- 🌱 I’m currently working as a Blockchain Lead.
 - 💻 I’m looking to collaborate on projects on Blockchain development platforms.
 - 🔨 I have created smart contracts on Ethereum, Binance Smart Chain, Polygon, Avalanche, Solana.
 - 💻 I also have used Web3 tools for integration process of Tokens, NFT, NFT Marketplace and many more.
