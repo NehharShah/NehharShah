@@ -3,7 +3,7 @@
 - 💻 I’m looking to collaborate on projects on Blockchain development platforms.
 - 🔨 I have created smart contracts on Ethereum, Binance Smart Chain, Polygon, Avalanche, Solana, Fantom, Moonbeam, Arbitrum
 - 💻 I also have used Web3 tools for integration process of Tokens, NFT, NFT Marketplace and many more.
-- 📫 How to reach me [Twitter!](https://twitter.com/Niharshah990) and [LinkedIn](https://www.linkedin.com/in/nihar-shah-139331106/) and [Mail](nehharshah@gmail.com)
+- 📫 How to reach me [Twitter](https://twitter.com/NehharShah) and [LinkedIn](https://www.linkedin.com/in/nihar-shah-139331106/) and [Mail](nehharshah@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth2412&label=Profile%20views&color=0e75b6&style=flat" alt="NehharShah" /> </p>
 
