@@ -7,7 +7,7 @@
 - 👨‍💻 Now, I am learning more about Zero Knowledge Proof and just completed my ZKU batch 2022, where I learned more about zk-SNARK and zk-rollups onn top of      Layer 2 solutions.
 - 📫 How to reach me [Twitter](https://twitter.com/NehharShah) and [LinkedIn](https://www.linkedin.com/in/nihar-shah-139331106/) and [Mail](nehharshah@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth2412&label=Profile%20views&color=0e75b6&style=flat" alt="NehharShah" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NehharShah&label=Profile%20views&color=0e75b6&style=flat" alt="NehharShah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NehharShah" alt="NehharShah" /></a> </p>
 
