@@ -5,7 +5,7 @@
 - 🪡 I created Defi applications on staking, yield farming, bonding, AMM, and automated backend process for APY process to different protocols and used          Chainlink’s Data Feeds for liquidity pool management
 - 💻 I also have used Web3 tools for integration process of Tokens, NFT, NFT Marketplace and many more.
 - 👨‍💻 Now, I am learning more about Zero Knowledge Proof and just completed my ZKU batch 2022, where I learned more about zk-SNARK and zk-rollups onn top of      Layer 2 solutions.
-- 📫 How to reach me [Twitter](https://twitter.com/NehharShah) and [LinkedIn](https://www.linkedin.com/in/nihar-shah-139331106/) and [Mail](nehharshah@gmail.com)
+- 📫 How to reach me [Twitter](https://twitter.com/NehharShah) and [LinkedIn](https://www.linkedin.com/in/nihar-shah-139331106/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NehharShah&label=Profile%20views&color=0e75b6&style=flat" alt="NehharShah" /> </p>
 
