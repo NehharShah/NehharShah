@@ -34,6 +34,8 @@ My work spans **agent oversight, reliability and control, verification, mechanis
 
 Recent work includes autonomous market making, liquidation and solvency, funding mechanisms, settlement verification, and tail-risk control for side-effecting agents.
 
+My paper, **Calibrated agents as market makers: automated liquidity provision for long-tail prediction markets**, was recently accepted for publication in Digital Finance (Springer). The work establishes optimal market-making spread decompositions based on agent estimation error to solve liquidity constraints in sparse or uncertain environments.
+
 **[Research →](https://niharshah.xyz/research)**
 
 ## Elsewhere
